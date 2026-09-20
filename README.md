@@ -7,38 +7,37 @@ I build custom web scrapers, browser automation, data pipelines, and AI-powered 
 **I help turn repetitive data and business workflows into reliable Python automation.**
 
 ---
-
 ## 🛠️ Technologies & Tools
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="38" alt="Python"/>
 &nbsp;
-<img src="https://raw.githubusercontent.com/microsoft/playwright/main/packages/dashboard/public/playwright-logo.svg" width="30" alt="Playwright"/>
+<img src="https://raw.githubusercontent.com/microsoft/playwright/main/packages/dashboard/public/playwright-logo.svg" width="38" alt="Playwright"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="30" alt="Selenium"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="38" alt="Selenium"/>
 &nbsp;
-<img src="https://raw.githubusercontent.com/psf/requests/main/ext/requests-logo.svg" width="30" alt="Requests"/>
+<img src="https://raw.githubusercontent.com/psf/requests/main/ext/requests-logo.svg" width="38" alt="Requests"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="30" alt="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="38" alt="Pandas"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38" alt="Git"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="38" alt="Docker"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="30" alt="Google Cloud"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="38" alt="Google Cloud"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/streamlit" width="30" alt="Streamlit"/>
+<img src="https://cdn.simpleicons.org/streamlit" width="38" alt="Streamlit"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/plotly" width="30" alt="Plotly"/>
+<img src="https://cdn.simpleicons.org/plotly" width="38" alt="Plotly"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/anthropic" width="30" alt="Anthropic"/>
+<img src="https://cdn.simpleicons.org/anthropic" width="38" alt="Anthropic"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/googlegemini" width="30" alt="Google Gemini"/>
+<img src="https://cdn.simpleicons.org/googlegemini" width="38" alt="Google Gemini"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/huggingface" width="30" alt="Hugging Face"/>
+<img src="https://cdn.simpleicons.org/huggingface" width="38" alt="Hugging Face"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/langchain" width="30" alt="LangChain"/>
+<img src="https://cdn.simpleicons.org/langchain" width="38" alt="LangChain"/>
 
 </div>
 ---
