@@ -12,38 +12,35 @@ I build custom web scrapers, browser automation, data pipelines, and AI-powered 
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" alt="Python"/>
 &nbsp;
-<img src="https://raw.githubusercontent.com/microsoft/playwright/main/packages/dashboard/public/playwright-logo.svg" width="32" alt="Playwright"/>
+<img src="https://raw.githubusercontent.com/microsoft/playwright/main/packages/dashboard/public/playwright-logo.svg" width="30" alt="Playwright"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="32" alt="Selenium"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="30" alt="Selenium"/>
 &nbsp;
-<img src="https://raw.githubusercontent.com/psf/requests/main/ext/requests-logo.svg" width="32" alt="Requests"/>
+<img src="https://raw.githubusercontent.com/psf/requests/main/ext/requests-logo.svg" width="30" alt="Requests"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="32" alt="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="30" alt="Pandas"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="32" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" alt="Git"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="32" alt="Docker"/>
-
-<br><br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="32" alt="Google Cloud"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30" alt="Docker"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/streamlit" width="32" alt="Streamlit"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="30" alt="Google Cloud"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/plotly" width="32" alt="Plotly"/>
+<img src="https://cdn.simpleicons.org/streamlit" width="30" alt="Streamlit"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/anthropic" width="32" alt="Anthropic"/>
+<img src="https://cdn.simpleicons.org/plotly" width="30" alt="Plotly"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/googlegemini" width="32" alt="Google Gemini"/>
+<img src="https://cdn.simpleicons.org/anthropic" width="30" alt="Anthropic"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/huggingface" width="32" alt="Hugging Face"/>
+<img src="https://cdn.simpleicons.org/googlegemini" width="30" alt="Google Gemini"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/langchain" width="32" alt="LangChain"/>
+<img src="https://cdn.simpleicons.org/huggingface" width="30" alt="Hugging Face"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/langchain" width="30" alt="LangChain"/>
 
 </div>
-
 ---
 
 ## ⚙️ What I Build
@@ -68,7 +65,7 @@ I build custom web scrapers, browser automation, data pipelines, and AI-powered 
 
 I'm open to freelance projects, automation work, and custom data solutions.
 
-📧 **Email:** [hamzaahmed160u@gmail.com](mailto:hamzaahmed160u@gmail.com)
+📧 **Email:** [hamzaahmed160u@gmail.com]
 
 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
 
