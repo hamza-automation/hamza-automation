@@ -1,5 +1,5 @@
 <div align="center">
-# Hey 👋 I'm YOUR NAME
+# Hey 👋 I'am Hamza
 ### 🐍 Python Automation & Web Scraping Developer
 I build **web scraping, data mining, browser automation, and AI-powered automation systems**.
 I enjoy turning repetitive manual work into reliable automated workflows ⚙️🤖
