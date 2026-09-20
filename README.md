@@ -4,8 +4,6 @@
 
 I build custom web scrapers, browser automation, data pipelines, and AI-powered workflows that turn repetitive manual work into reliable systems.
 
-**I help turn repetitive data and business workflows into reliable Python automation.**
-
 ---
 ## 🛠️ Technologies & Tools
 
@@ -44,26 +42,13 @@ I build custom web scrapers, browser automation, data pipelines, and AI-powered 
 
 ## ⚙️ What I Build
 
-- 🕷️ **Custom Web Scrapers** — collect structured data from websites
-- 🌐 **Browser Automation** — automate complex website workflows
-- 📊 **Data Mining & Cleaning** — transform raw data into usable datasets
-- 📈 **Dashboards & Trackers** — monitor products, prices, competitors, and other data
-- 🔄 **Scheduled Automation** — automatically collect and update data on a schedule
-- 🤖 **AI Integration** — connect AI models to automation workflows
-- 🧩 **Custom Automation Systems** — built around specific business processes
+- 🕷️ **Custom Web Scrapers** 
+- 🌐 **Browser Automation** 
+- 📊 **Data Mining & Cleaning** 
+- 🔄 **Scheduled Automation & AI Workflows**
 
 ---
-
-## 💼 Open to Freelance Projects
-
-**Web Scraping | Python Automation | Data Mining | AI Integration | Custom Trackers**
-
----
-
 ## 📫 Let's Connect
-
-I'm open to freelance projects, automation work, and custom data solutions.
-
 📧 **Email:** [hamzaahmed160u@gmail.com]
 
 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
@@ -71,5 +56,4 @@ I'm open to freelance projects, automation work, and custom data solutions.
 🐙 **GitHub:** [github.com/hamza-automation](https://github.com/hamza-automation)
 
 ---
-
 Feel free to explore my repositories to see the automation systems and data-mining projects I've built.
