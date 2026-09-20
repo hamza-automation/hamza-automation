@@ -1,122 +1,90 @@
+<div align="center">
+
 # Hey 👋 I'm Hamza
 
 ### 🐍 Python Automation & Web Scraping Developer
 
-I build **web scraping, data mining, browser automation, and AI-powered automation systems**.
+I build **custom web scrapers, browser automation, data pipelines, and AI-powered workflows** that turn repetitive tasks into reliable systems.
 
-I enjoy turning repetitive manual work into reliable automated workflows. ⚙️🤖
+🌐 From almost any website → 📊 structured data → ⚙️ automation → 🤖 intelligent workflows
 
----
-
-## 👨‍💻 About Me
-
-I'm a Python developer focused on **automation, data extraction, and intelligent workflows**.
-
-I build systems that can:
-
-- 🌐 Scrape websites and collect structured data
-- 🤖 Automate browser interactions
-- 📊 Clean, validate, and organize datasets
-- 🔄 Handle pagination and large data collections
-- 🧹 Remove duplicates and incomplete records
-- ⚙️ Build reusable automation tools
-- 📁 Export clean data to CSV
-- 🕐 Run automated jobs on schedules
-- 🧠 Integrate AI and LLMs into automation workflows
-
-> 🚀 My goal is to use code and automation to turn repetitive work into useful systems.
+</div>
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### 🐍 Python
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<a href="https://www.python.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+</a>
+&nbsp;&nbsp;
 
-### 🌐 Web Scraping & Browser Automation
+<a href="https://playwright.dev/">
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="55"/>
+</a>
+&nbsp;&nbsp;
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge)
+<a href="https://www.selenium.dev/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="55"/>
+</a>
+&nbsp;&nbsp;
 
-### 📊 Data & Automation
+<a href="https://www.crummy.com/software/BeautifulSoup/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/beautifulsoup/beautifulsoup-original.svg" width="55"/>
+</a>
+&nbsp;&nbsp;
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<a href="https://requests.readthedocs.io/">
+  <img src="https://raw.githubusercontent.com/psf/requests/main/ext/requests-logo.png" width="55"/>
+</a>
+&nbsp;&nbsp;
 
-### 🤖 AI & Intelligent Automation
+<a href="https://pandas.pydata.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
+</a>
 
-🧠 LLM APIs  
-🤖 AI Agents  
-🔧 Tool Calling  
-🌐 AI + Browser Automation  
-⚡ AI-assisted Development
+<br><br>
 
----
+<a href="https://openai.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="55"/>
+</a>
+&nbsp;&nbsp;
 
-## 🚀 Featured Projects
+<a href="https://git-scm.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
+</a>
+&nbsp;&nbsp;
 
-### 🛒 E-commerce Product Scraper
+<a href="https://github.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
+</a>
 
-A Python-based web scraping system for collecting and structuring product information.
-
-**Features:**
-
-- 🔎 Product discovery
-- 📄 Pagination handling
-- 💰 Price extraction
-- 📦 Product information extraction
-- 🧹 Data cleaning
-- ♻️ Duplicate removal
-- 📊 CSV export
-- 📝 Logging and error handling
-
----
-
-### 🏠 Real Estate Agent Data Mining
-
-An automated browser-based system for collecting and structuring publicly available real estate agent information.
-
-**Data includes:**
-
-| Field | Example |
-|---|---|
-| 👤 Agent | John Smith |
-| 🏢 Agency | Example Realty |
-| 📈 Sales 12M | 24 |
-| 💰 Total Sales | 85 |
-| 🏷️ Price Range | $55,000 – $200,000 |
-| 💵 Avg. Price | $125,000 |
-| ⏳ Exp. (Years) | 8 |
-| 📞 Phone | Contact |
-| 📧 Email | Contact |
-| 📍 Location | Example City |
-| 🔗 Profile | Website |
+</div>
 
 ---
 
-## 🤖 Automation Focus
+## ⚙️ What I Build
 
-🌐 Web Scraping  
-⚙️ Browser Automation  
-📊 Data Mining  
-🧹 Data Cleaning  
-🔄 Workflow Automation  
-🧠 AI & Intelligent Automation
-
----
-
-## 🎯 My Focus
-
-**Build useful automation systems, solve real problems, and keep improving every day.**
+- 🕷️ **Custom Web Scrapers** — collect structured data from websites
+- 🌐 **Browser Automation** — automate complex website workflows
+- 📊 **Data Mining & Cleaning** — transform raw data into usable datasets
+- 📈 **Dashboards & Trackers** — monitor competitors, prices, products, and other data
+- 🔄 **Scheduled Automation** — automatically collect and update data on a schedule
+- 🤖 **AI Integration** — connect OpenAI and other LLMs to automation workflows
+- 🧩 **Custom Automation Systems** — built around a specific business process
 
 ---
 
-## 👋 Let's Connect
+## 🚀 What I Focus On
 
-I'm interested in **freelance automation, web scraping, data mining, and Python projects.**
+**Web Scraping • Automation • Data Mining • AI Integration • Data Cleaning • Monitoring & Tracking**
 
-Thanks for stopping by! 🚀
+My goal is to turn repetitive manual work into **automated, reliable, and useful systems.**
+
+---
+
+### 👋 Open to freelance projects involving
+
+**Web Scraping | Python Automation | Data Mining | AI Integration | Custom Trackers**
