@@ -2,7 +2,7 @@
 
 ### 🐍 Python Automation & Web Scraping Developer
 
-I build custom web scrapers, browser automation, data pipelines, and AI-powered workflows that turn repetitive manual work into reliable systems.
+Over the last 6 years, I've helped businesses cut hundreds of hours of manual labor by building resilient web scrapers, browser automation, and AI-driven data pipelines designed to run reliably at scale.
 
 ---
 ## 🛠️ Technologies & Tools
