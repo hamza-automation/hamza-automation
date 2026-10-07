@@ -53,5 +53,6 @@ Over the last 6 years, I've helped businesses cut hundreds of hours of manual la
 
 🐙 **GitHub:** [github.com/hamza-automation](https://github.com/hamza-automation)
 
+🧾 **Linkedin:** [https://www.linkedin.com/in/hamza-ahmed-python/]
 ---
 Feel free to explore my repositories to see the automation systems and data-mining projects I've built.
